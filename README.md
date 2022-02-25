@@ -1,1 +1,1 @@
-# githubtraning
+# githubtranings
